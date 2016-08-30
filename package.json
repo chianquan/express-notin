@@ -1,0 +1,25 @@
+{
+  "name": "express-notin",
+  "version": "1.0.0",
+  "description": "This is a middleware to extend the app(express Instance) and router(express.Router instance).Add an function app.notin() or app.notIn() to the express instance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chianquan/express-notin.git"
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
+  },
+  "keywords": [
+    "express",
+    "path",
+    "filter"
+  ],
+  "author": "chianquan",
+  "license": "GPL3.0"
+}
